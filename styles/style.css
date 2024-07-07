@@ -128,6 +128,8 @@ nav li a{
 
 .banner-description{
     font-size: 18px;
+    padding-bottom: 20px;
+    color: #757575;
 }
 
 .banner-profile-pic{
@@ -140,6 +142,7 @@ nav li a{
 main{
     max-width: 1140px;
     margin: 0 auto;
+    font-family: "Open Sans", sans-serif; 
 }
 
 main section{
@@ -192,3 +195,64 @@ main section{
     padding-bottom: 20px;
 }
 
+.skill-title{
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    
+}
+
+
+.skill-description{
+    color: #474747;
+}
+
+
+/* Resume section styles */
+
+.resume{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+
+.resume{
+    color: #474747;
+}
+
+.resume-title{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.experience{
+    padding-bottom: 29.5px;
+}
+
+.experience-title{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 30.5px;
+    padding-bottom: 10px;
+}
+
+.experience-subtitle{
+        font-size: 20px;
+        font-weight: 500;
+        padding-bottom: 20px;
+}
+
+.resume-description{
+    padding-bottom: 29.5px;
+}
+
+.resume-container{
+    padding-top: 100px;
+}
+
+.download-cv-btn{
+    padding-top: 50px;
+}
