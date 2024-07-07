@@ -28,13 +28,13 @@
 
 
 .btn-primary:hover{
-    background-color: #db5d03;
+    background-color: white;
     font-weight: bold;
     font-size: 20px;
-    color: white;
+    color: #FD6E0A;
     padding: 18px 35px;
     border: none;
-    border-radius: 20px;
+    border-radius: 5px;
     cursor: pointer;
 }
 
@@ -97,7 +97,10 @@ nav ul{
 nav li a{
     text-decoration: none;
     font-size: 20px;
-    
+}
+
+.nav-hover:hover{
+    color: #FD6E0A;
 }
 
 
