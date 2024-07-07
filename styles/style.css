@@ -282,7 +282,9 @@ footer input[type="text"], footer input[type="email"]{
 
 }
 
-
+.footer-description{
+    margin: 20px 10px;
+}
 footer textarea{
     border-radius: 5px;
     background-color: white;
