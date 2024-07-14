@@ -309,6 +309,7 @@ footer textarea {
     margin: 0 auto;
   }
   .about {
+    margin-top: 20px;
     padding: 50px 30px;
   }
   .about-items {
@@ -347,7 +348,7 @@ footer textarea {
     gap: 10px;
   }
   nav > ul {
-    padding-left: 50px;
+    /* padding-left: 50px; */
   }
 
   .header {
