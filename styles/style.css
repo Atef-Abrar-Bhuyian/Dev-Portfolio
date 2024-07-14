@@ -291,10 +291,6 @@ footer textarea {
   gap: 24px;
 }
 
-.hide {
-  display: none;
-}
-
 /* Responsive */
 
 @media screen and (max-width: 576px) {
